@@ -1,10 +1,5 @@
 # Project Spark Elasticsearch
 
-## Students
-- Marwan MASHRA 
-- Abdurrahman SHAHID 
-- Romain MAGNET
-
 ## Files
 * <b>stream.ipynb</b> : the server that streams tweets from the Twitter API.
 * <b>process.ipynb</b> : Spark & Elasticsearch
