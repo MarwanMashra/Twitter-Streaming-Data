@@ -1,4 +1,4 @@
-# Project Spark Elasticsearch
+# Twitter Streaming Data
 
 ## Files
 * [stream.ipynb](./stream.ipynb) : the server that streams tweets from the Twitter API.
